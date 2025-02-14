@@ -1,0 +1,33 @@
+.img1{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    color: #72b75a;
+
+}
+.img2{
+    height: 90%;
+    width: 100%;
+}
+.img3{
+    height: 80%;
+    width: 90%;
+}
+.footer {
+    background: #061D25;
+    padding: 10px 0;
+  }
+  .footer a {
+    color: #70726F;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    transition: all .5s ease;
+  }
+  .footer a:first-child {
+    border-left: 1px solid #70726F;
+  }
+  .footer a:hover {
+    color: white;
+  }
